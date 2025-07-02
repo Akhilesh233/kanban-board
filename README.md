@@ -25,39 +25,16 @@ A simple Kanban board application built with **React**, **TypeScript**, **Vite**
 
 2. Install dependencies:
     npm install
-    # or
+    or
     yarn install
 
 3. Running the App
     Start the development Server:
     npm run dev
-    # or
+    or
     yarn dev
 
 3. Open http://localhost:5000 in your browser
-
-# Project Structure
-
-├── public/
-│   └── kanban.jpg
-├── src/
-│   ├── assets/react.svg
-│   ├── components/
-|   |      ├── [ColumnContainer.tsx]
-|   |      ├── [KanbanBoard.tsx]
-|   |      ├── [TaskCard.tsx]
-│   ├── icons/
-|   |    ├── [delete.tsx]
-|   |    ├── [plus.tsx]
-│   ├── [App.tsx]
-│   ├── [main.tsx]
-│   ├── [types.ts]
-│   └── ...
-├── [index.html]
-├── [package.json]
-├── [tailwind.config.js]
-├── [vite.config.ts]
-└── ...
 
 ## License
 
